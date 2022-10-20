@@ -2,7 +2,7 @@
 
 ## 🎯 About
 
-Pokedex para visualizar y buscar diferentes pokemons
+Pokedex para visualizar y buscar diferentes pokemones
  
 ## 🚀Deployment
 
